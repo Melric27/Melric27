@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 3D game in Unreal<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning deep learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭  I’m currently working on a 3D game in Unreal Engine, while also exploring projects in machine learning and deep learning<br>👯 👯 I’m looking to collaborate on projects involving game development, AI/ML, deep learning, or any idea where creativity meets engineering<br>🤝 I’m looking for help with understanding ML & deep learning concepts<br>🌱 I’m currently learning deep learning<br>💬 💬 Ask me about ML basics, learning tech from scratch, or movie recommendations<br>⚡ Fun fact: Half my learning comes from building, the other half from breaking things.
 
 
 ## 🌐 Socials:
